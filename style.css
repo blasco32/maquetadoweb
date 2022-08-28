@@ -1,0 +1,72 @@
+* {
+    font-family: Arial;
+}
+
+nav{
+    padding: 20px 0px;
+    width: 100%;
+    background-color: black;
+}
+
+nav div {
+    margin-left: 30px;
+}
+
+nav div ul li {
+    display: inline-block;
+    margin: 0px 25px;
+}
+
+nav div ul li a {
+    text-decoration: none;
+    color: white;
+}
+
+.inicio {
+    margin: 200px 20%;
+}
+
+/* DIV1 */
+
+.inicio_div1 {
+    max-width: 400px;
+    margin: 0px auto;
+}
+
+.inicio_div1 h2 {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.inicio_div1 p {
+    text-align: center;
+}
+
+/* --------- */
+
+.sobremi h3 {
+    text-align: center;
+}
+
+.sobremi p {
+    text-align: center; 
+    margin: 150px 20%;
+}
+
+.proyectos h3 {
+    text-align: center;
+}
+
+.proyectos p {
+    text-align: center; 
+    margin: 150px 20%;
+}
+
+.contacto h3 {
+    text-align: center;
+}
+
+.contacto p {
+    text-align: center; 
+    margin: 150px 20%;
+}
